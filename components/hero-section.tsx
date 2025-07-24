@@ -48,7 +48,7 @@ export default function HeroSection() {
                                     speedSegment={0.3}
                                     as="h1"
                                     className="mt-8 max-w-2xl text-balance text-5xl font-medium md:text-6xl lg:mt-16">
-                                    Build and Ship 10x faster with NS
+                                    Forge Smart Notes. Code Better. 🔥
                                 </TextEffect>
                                 <TextEffect
                                     per="line"
@@ -57,7 +57,8 @@ export default function HeroSection() {
                                     delay={0.5}
                                     as="p"
                                     className="mt-8 max-w-2xl text-pretty text-lg">
-                                    Tailwindcss highly customizable components for building modern websites and applications that look and feel the way you mean it.
+                                    Supercharge your productivity with focused, intelligent note-taking.
+                                    Built for builders, thinkers, and creators who don&apos;t slow down.
                                 </TextEffect>
 
                                 <AnimatedGroup
